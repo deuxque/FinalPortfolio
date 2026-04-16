@@ -10,21 +10,21 @@ const Skills = ({ isDark }) => {
       title: "Video/Cinematographer",
       description: "Paid in Experience T_T",
       tags: ["Composition", "Colorgrade", "Angles"],
-      img: "src/assets/unpaid.jpg", 
+      img: "/unpaid.jpg", 
     },
     {
       id: "MOD_02",
       title: "Photography",
       description: "Right place Right time Wrong person (HDR)",
       tags: ["Rules", "Editing", "Ratios"],
-      img: "src/assets/IMG_2075.jpg", 
+      img: "/IMG_2075.jpg", 
     },
     {
       id: "MOD_03",
       title: "Graphic Designer",
       description: "Rejected HQ Baguio Poster",
       tags: ["Assets", "Texture", "Layers"],
-      img: "src/assets/cs.png", 
+      img: "/cs.png", 
     }
   ];
 
