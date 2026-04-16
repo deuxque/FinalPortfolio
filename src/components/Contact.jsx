@@ -13,7 +13,7 @@ const Contact = ({ isDark }) => {
         </p>
         
         <a 
-          href="mailto:void@example.com" 
+          href="https://www.instagram.com/gawx_art/" 
           className={`inline-block px-12 py-4 text-xl brutal-border brutal-shadow font-bold uppercase transition-transform hover:translate-y-1 hover:shadow-none font-mono tracking-widest
             ${isDark ? 'bg-white text-black' : 'bg-black text-white'}`}
         >
